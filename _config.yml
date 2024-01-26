@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Longhu Qin"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Longhu Qin"
 description              : &description "A final-year master student from University of Science and Technology of China"
