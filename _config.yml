@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Longhu Qin / Site Title"
+title                    : "Longhu Qin"
 title_separator          : "-"
 name                     : &name "Longhu Qin"
 description              : &description "A final-year master student from University of Science and Technology of China"
@@ -85,7 +85,7 @@ author:
   bio              : "A final-year master student from University of Science and Technology of China"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=qJY6lWcAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
